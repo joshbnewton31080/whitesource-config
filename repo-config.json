@@ -10,5 +10,8 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
-  }
+  },
+    "remediateSettings": {
+      "extends": ["github>whitesource/merge-confidence:beta"]
+    }
 }
